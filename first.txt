@@ -1,3 +1,11 @@
+<<<<<<< HEAD
  
 second line now we want pulling 
 hahahahha
+=======
+hahaha  123
+second line now we want pulling 
+lallaa
+lalalal
+lalala
+>>>>>>> f686056590746e78e80d7290e01d000ebb769862
